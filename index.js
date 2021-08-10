@@ -23,4 +23,4 @@ function SnapCrackle(maxValue) {
     }
     return number.join(", ")
 }
-console.log(SnapCrackle(15))
+
